@@ -1,1 +1,1 @@
-# Rep-counter-for-Knee-bend-exercise
+A python application for counting the number of reps in kneebend excercise using the camera.
